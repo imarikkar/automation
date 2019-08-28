@@ -4,7 +4,7 @@ describe('Yahoo find', function() {
     it('Yahoo', function() {
       // Visit Yahoo website
       cy.visit ('https://www.yahoo.com')
-      //git testing
+      //git testing 123456
   
     
 
