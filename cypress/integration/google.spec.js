@@ -7,6 +7,7 @@ describe('Google find', function() {
       cy.get ('.gLFyf').type('flowers')
       cy.get ('.aajZCb > .VlcLAe > center > .gNO89b').click()
       //need to determine link to select
+    
 
     })
   })
